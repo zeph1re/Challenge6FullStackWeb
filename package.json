@@ -1,0 +1,34 @@
+{
+  "name": "challenge6fsw",
+  "version": "1.0.0",
+  "description": "\"# Challenge6FullStackWeb\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeph1re/Challenge6FullStackWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeph1re/Challenge6FullStackWeb/issues"
+  },
+  "homepage": "https://github.com/zeph1re/Challenge6FullStackWeb#readme",
+  "dependencies": {
+    "cloudinary": "^1.32.0",
+    "express": "^4.18.2",
+    "formidable": "^2.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.20",
+    "npx": "^10.2.2",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.26.0",
+    "swagger-jsdoc": "^6.2.5",
+    "swagger-ui-express": "^4.6.0"
+  }
+}
